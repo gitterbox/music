@@ -1,0 +1,5 @@
+Music-Tools
+===========
+
+Dependencies
+Pillow
